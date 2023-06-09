@@ -1,15 +1,15 @@
-
 /*--------------------------------------------------------------
 
--S-H-E-N---H-I-G-H-S-C-H-O-O-L
+-SUB-TO-WARRIORPUG-ON-YT-
 
-    File: MineSweeperModel.java
+    File: MineSweeperApp.java
     Date: 2/17/23
     Purpose: Logic for my minesweeper 2D array
-    Author: Arcangelo Losee
+    Author: ALosee315
     Sauce Code: 8
 
 ----------------------------------------------------------------*/
+
 import java.util.Random;
 
 public class MineSweeperModel {
