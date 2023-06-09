@@ -1,12 +1,12 @@
 
 /*--------------------------------------------------------------
 
--S-H-E-N---H-I-G-H-S-C-H-O-O-L
+-SUB-TO-WARRIORPUG-ON-YT-
 
     File: MineSweeperApp.java
     Date: 2/17/23
     Purpose: Create the minesweeper GUI
-    Author: Arcangelo Losee
+    Author: ALosee315
     Sauce Code: 8
 
 ----------------------------------------------------------------*/
