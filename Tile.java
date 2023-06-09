@@ -1,12 +1,11 @@
-
 /*--------------------------------------------------------------
 
--S-H-E-N---H-I-G-H-S-C-H-O-O-L
+-SUB-TO-WARRIORPUG-ON-YT-
 
-    File: Tile.java
+    File: MineSweeperApp.java
     Date: 2/17/23
     Purpose: A tile class to be put into a 2D array for my minesweeper game
-    Author: Arcangelo Losee
+    Author: ALosee315
     Sauce Code: 8
 
 ----------------------------------------------------------------*/
